@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTM3U x-tvg-url="https://github.com/epgshare01/share01/raw/master/epg_ripper_IN4.xml.gz"
+#EXTM3U x-tvg-url="https://kodi.botallen.com/tv/epg.xml.gz"
+#EXTM3U x-tvg-url="https://3o77.short.gy/epg.xml.gz"
+#EXTM3U x-tvg-url="https://3o77.short.gy/aioepg.xml.gz"
+#EXTM3U x-tvg-url="https://github.com/SilentButeo2/webgrabplus-siteinipack/blob/79767985600c0cb9a3da8066e567caf832d7bd53/siteini.pack/India/dishtv.in.channels.xml.gz"
+#EXTM3U x-tvg-url="https://3o77.short.gy/jioepg.xml.gz"
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Dev" tvg-logo="" group-title="Kodi By Denver",Star Plus HD
+http://221.120.204.3/star-plus-LOCKLE/tracks-v1a1/mono.m3u8  
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SET HD" tvg-logo="" group-title="Kodi By Denver",SONY HD
+http://221.120.204.3/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Max HD" tvg-logo="" group-title="Kodi By Denver",Sony Max HD
+http://221.120.204.3/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SAB HD" tvg-logo="" group-title="Kodi By Denver",Sony Sab HD
+http://221.120.204.3/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PTV Sports HD" tvg-logo="" group-title="Kodi By Denver",PTV Sports HD
+http://221.120.204.3/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Movies" tvg-logo="" group-title="Kodi By Denver",Star Movies
+http://221.120.204.3/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star World" tvg-logo="" group-title="Kodi By Denver",Star World
+http://221.120.204.3/star-world-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Jalsha HD" tvg-logo="" group-title="Kodi By Denver",Star Jalsha HD
+https://nayeem-ban.chadasaniya.ml/STARJALSAIND-Bang/index.m3u8?token=test
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalsha Movies HD" tvg-logo="" group-title="Kodi By Denver",Jalsha Movies HD
+https://nayeem-ban.chadasaniya.ml/STAR_JHALSA_MOVIES_Bang/index.m3u8?token=test
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="A Sports HD" tvg-logo="" group-title="Kodi By Denver",A Sports HD
+http://221.120.204.3/LOCKLE-A-SPORTS/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 Hindi HD" tvg-logo="" group-title="Kodi By Denver",Star Sports 1 Hindi HD
+http://31.172.87.20:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD" tvg-logo="" group-title="Kodi By Denver",Star Sports 1 HD
+http://31.172.87.20:2200/EX/starsports1hd-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 Hindi HD" tvg-logo="" group-title="Kodi By Denver",Star Sports 1 Hindi HD
+http://sonyiptv.net:8080/011/011/6272
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 Hindi HD" tvg-logo="" group-title="Kodi By Denver",Star Sports 1 Hindi SD
+https://thenayeemparvez.chadasaniya.cf/noob4castapi/noob4cast.php?id=starhindi
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 Tamil HD" tvg-logo="" group-title="Kodi By Denver",Star Sports 1 Tamil HD
+http://31.172.87.52:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 1 HD" tvg-logo="" group-title="Kodi By Denver",Star Sports 1 HD
+http://103.16.24.54:8080/channel1/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports 2 HD" tvg-logo="" group-title="Kodi By Denver",Star Sports 2 HD
+http://31.172.87.20:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 1 HD" tvg-logo="" group-title="Kodi By Denver",Star Sports Select 1 HD
+http://103.99.249.107:81/play/a01d
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Star Sports Select 2 HD" tvg-logo="" group-title="Kodi By Denver",Star Sports Select 2 HD
+http://103.99.249.107:81/play/a01e
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.postimg.cc/ZnxdB0QW/Star-Sports-3-HD-Logo.png",Star Sports 3 SD
+http://sonyiptv.net:8080/011/011/6276
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.postimg.cc/ZnxdB0QW/Star-Sports-3-HD-Logo.png",Star Sports 3 HD
+http://tptv.cz:80/153486623555839/i1iWghrgZB/34490
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.postimg.cc/5yPKgzbx/vGq343l.png",Star Gold HD
+http://50.7.237.4:8080/STARGOLDHD/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.postimg.cc/5yPKgzbx/vGq343l.png",Star Gold HD
+http://103.99.249.107:81/play/a016
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.postimg.cc/cCNqbz6q/Star-Gold-Select.jpg",Star Gold Select HD
+http://103.99.249.107:81/play/a018
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.postimg.cc/PqjctYfq/G0fh0PU.png",Star Gold 2
+http://103.99.249.107:81/play/a020
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.postimg.cc/PqjctYfq/G0fh0PU.png",Star Gold 2
+http://103.99.249.107:81/play/a020
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.postimg.cc/MpNsTPgM/download-6.png",Disney
+http://103.99.249.107:81/play/a025
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.postimg.cc/MpNsTPgM/download-6.png",Disney
+http://103.99.249.107:81/play/a025
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.postimg.cc/MH1j1804/t0Ecro6.png",Hungama
+http://103.99.249.107:81/play/a023
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.postimg.cc/MH1j1804/t0Ecro6.png",Hungama
+http://103.99.249.107:81/play/a023
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.ibb.co/1T67BVx/Super-Hungama-Logo.png",Super Hungama
+http://103.99.249.107:81/play/a07i
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.ibb.co/1T67BVx/Super-Hungama-Logo.png",Super Hungama
+http://103.99.249.107:81/play/a07i
