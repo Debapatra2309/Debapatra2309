@@ -115,6 +115,8 @@ http://sonyiptv.net:8080/011/011/6095
 http://sonyiptv.net:8080/011/011/6134
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https",& TV HD
 http://sonyiptv.net:8080/011/011/6069
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https",& TV HD
+http://sonyiptv.net:8080/011/011/6068
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https",BBO Classic
 http://tptv.cz:80/153486623555839/NI0bqioMoB/110177
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https",History TV
