@@ -69,3 +69,21 @@ http://103.99.249.107:81/play/a023
 http://103.99.249.107:81/play/a07i
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.ibb.co/1T67BVx/Super-Hungama-Logo.png",Super Hungama
 http://103.99.249.107:81/play/a07i
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https",Zee Cinema HD
+http://221.120.204.3/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https",Zee TV HD
+http://221.120.204.3/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https",Colors HD
+http://221.120.204.3/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https",Colors Infinity
+http://221.120.204.3/COLOURS-INFINITY-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https",National Geographic
+http://221.120.204.3/NAT-GEO-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https",Sony Pix HD
+http://sonyiptv.net:8080/011/011/6139
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https",Sony Max 2 SD
+http://sonyiptv.net:8080/011/011/6095
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https",Movies Now FHD
+http://sonyiptv.net:8080/011/011/6134
+#EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https",& TV HD
+http://sonyiptv.net:8080/011/011/6069
