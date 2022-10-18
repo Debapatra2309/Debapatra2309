@@ -39,14 +39,14 @@ https://tsneh.vercel.app/yy7ju66
 https://tsneh.vercel.app/ytfyyyki
 #EXTINF:-1 group-title="Kodi By Denver" tvg-logo="https://i.postimg.cc/GtRbRF1b/ytL56ZP.jpg",Star Sports 1 HD
 https://tsneh.vercel.app/star1denver
+#EXTINF:-1 group-title="Kodi By Denver"" tvg-logo="https://i.postimg.cc/GtRbRF1b/ytL56ZP.jpg",Star Sports 1 HD (720p)
+http://31.172.87.20:2200/EX/starsports1hd-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
 #EXTINF:-1 group-title="Kodi By Denver"" tvg-logo="https://i.postimg.cc/L5rr1bKQ/Star-Sports1-Hindi.jpg",Star Sports 1 Hindi HD(720p)
 http://31.172.87.20:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=|User-agent=REDLINECLIENT
-#EXTINF:-1 group-title="Kodi By Denver"" tvg-logo="https://i.postimg.cc/L5rr1bKQ/Star-Sports1-Hindi.jpg",Star Sports 1 Hindi Full HD
-http://31.172.87.20:2200/EX/starsports1hd-in/tracks-v1a1/mono.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
 #EXTINF:-1 group-title="Kodi By Denver"" tvg-logo="https://i.postimg.cc/L5rr1bKQ/Star-Sports1-Hindi.jpg",Star Sports 1 Hindi HD (720p 2)
 http://sonyiptv.net:8080/011/011/6272
-#EXTINF:-1 group-title="Kodi By Denver"" tvg-logo="https://i.postimg.cc/L5rr1bKQ/Star-Sports1-Hindi.jpg",Star Sports 1 Hindi SD
-http://m2.redirect-4k.com:80/C4D4F63260FD6D0/31Mke1LMl8/63560
+#EXTINF:-1 group-title="Kodi By Denver"" tvg-logo="https://i.postimg.cc/L5rr1bKQ/Star-Sports1-Hindi.jpg",Star Sports 1 Hindi HD
+http://103.147.87.13:8000/play/a009/index.m3u8
 #EXTINF:-1 group-title="Kodi By Denver"" tvg-logo="https://i.ibb.co/6n2DHkv/download-3.jpg",Star Sports 1 Tamil HD
 https://tsneh.vercel.app/starsportstamildenver
 #EXTINF:-1 group-title="Kodi By Denver"" tvg-logo="https://i.ibb.co/CtBqZ83/images-21.jpg",Star Sports 1 Telugu HD
