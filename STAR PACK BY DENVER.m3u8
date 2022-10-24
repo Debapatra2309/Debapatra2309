@@ -1,10 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="Indian" tvg-name="Star Plus HD" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",Star Plus FHD
-http://sonyiptv.net:8080/011/011/6054
+http://31.172.87.20:2200/R-EX/HINDI_STAR_PLUS_HD-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659|User-agent=REDLINECLIENT
 #EXTINF:-1 group-title="Indian" tvg-name="Star Plus HD"  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",Star Plus FHD
 http://starshare.live:8080/live/Oscar1234/Oscar1234/3744.ts
 #EXTINF:-1 group-title="Indian" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",Star Plus HD
-http://221.120.204.3/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
+http://185.93.1.84/a1f2d5a233fbde5a56d8e34bd8ae36e7f2b59bb8687161954873a7a88e2eb009140f40e3499cae560ac5404b01cc15f2c9786d5b26f08c30f967223ebebf98d891e1f18982c9d79c74f6fc8de228f3d6c461776d7c01da59d74acca239/index.m3u8
 #EXTINF:-1 group-title="Indian" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",Star Plus HD
 http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494118c3bfafd1bf16c2d9244026aa35ef127c4d/index.m3u8?token=df4279a8b0810c89e216f721c3f87942b55ab246-2df97ace10fe0f19ca937316c177a75d-1666264981-1666243381&remote=172.104.238.29
 #EXTINF:-1 group-title="Indian" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png",Star Bharat HD
@@ -14,9 +14,9 @@ http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494118c3bfafd1bf01dfc
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/YTG9sLK/2014-Disney-Channel-logo-svg.png",Disney
 http://starshare.live:8080/live/Oscar1234/Oscar1234/19741.ts
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/MH1j1804/t0Ecro6.png",Hungama
-http://sonyiptv.net:8080/011/011/8955
+http://xtv.ooo:8080/live/6months/6months/150480.ts
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/MH1j1804/t0Ecro6.png",Hungama
-http://sonyiptv.net:8080/011/011/8955
+http://xtv.ooo:8080/live/6months/6months/150480.ts
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/1T67BVx/Super-Hungama-Logo.png",Super Hungama
 http://starshare.live:8080/live/Oscar1234/Oscar1234/85595.ts
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/1T67BVx/Super-Hungama-Logo.png",Super Hungama
@@ -26,7 +26,7 @@ http://starshare.live:8080/live/Oscar1234/Oscar1234/238.ts
 #EXTINF:-1 group-title="Indian" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11791-j9kyqpy8-v1/imageContent-11791-j9kyqpy8-m1.png",Star Sports Select 2 HD
 https://tsneh.vercel.app/yy7ju66
 #EXTINF:-1 group-title="Indian" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",Star Sports 1 Hindi HD
-http://sonyiptv.net:8080/011/011/6272
+http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0767f22d5a29bf79231e5c747403e8f0ed8246b4f29ce87/index.m3u8?token=c59191c26ca443cd3c806db9340c69f820dd9c33-545dee32e2db7319b33ad61079f88b95-1666558979-1666537379&remote=172.104.238.29
 #EXTINF:-1 group-title="Indian" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",Star Sports 1 Hindi HD
 http://starshare.live:8080/live/Oscar1234/Oscar1234/211.ts
 #EXTINF:-1 group-title="Indian" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-60-j5fdr6a0-v1/imageContent-60-j5fdr6a0-m1.png",Star Sports 1 Hindi HD
@@ -50,10 +50,8 @@ http://starshare.live:8080/live/Oscar1234/Oscar1234/36260.ts
 #EXTINF:-1 group-title="Indian" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9820-j85ijtd4-v1/imageContent-9820-j85ijtd4-m1.png",Star Gold HD
 https://tsneh.vercel.app/uyuijio86yhu
 #EXTINF:-1 group-title="Indian" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9820-j85ijtd4-v1/imageContent-9820-j85ijtd4-m1.png",Star Gold HD
-http://sonyiptv.net:8080/011/011/6071
+http://185.93.1.84/a1f2d5a233fbde5a57d1e540daae36e7f2b59bb8687161954873a7a88e2eb009140f40e3499cae560ad2435216cc15f2c9786d5b26f08c30f967223ebebac2d7c2e1a48ed899d0c821abf9dbb029a6d69966276a7c0d890c8a1990f338/index.m3u8
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/cCNqbz6q/Star-Gold-Select.jpg",Star Gold Select HD
-https://tsneh.vercel.app/juhyjkouyjj
-#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/PqjctYfq/G0fh0PU.png",Star Gold 2
-https://tsneh.vercel.app/y6fy6jkijn
+http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494118c3bfafd1bf16c2d9244031a92cf812674c2dcf9bc8b10a8e/index.m3u8?token=b52ab68dd46d5fccb185507da3b8dfe7e1d9ca5f-e0eecf186b38860ee3c3b886a969c8a5-1666611425-1666589825&remote=172.104.238.29
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/PqjctYfq/G0fh0PU.png",Star Gold 2
 http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494118c3bfafd1bf16c2d9244031a92cf81206/index.m3u8?token=82e6f85a8a9785b2dd232358c89ac639cb061c39-bc48ab5c0fa39224a60919e73f45c7a2-1666261609-1666240009&remote=172.104.238.29
