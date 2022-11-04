@@ -3,7 +3,7 @@
 #EXTM3U
 #EXTM3U x-tvg-url="https://github.com/epgshare01/share01/raw/master/epg_ripper_IN4.xml.gz"
 #EXTINF:-1 group-title="Indian" tvg-name="Star Plus HD" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",Star Plus FHD
-http://m2.redirect-4k.com:80/311295C215D6667/I99xaLuuR2/63563
+https://ip-panel.com:443/play/D5-ETGxNl2Ftc5foaMsyahRSv0Vpr2uYgnwsW4BuVncwCUAYZZlotN6gLlXLppmEs0tJQRC3Wc02BoplUBZgmaHaDg1JEZ6Owd8EEzqC7i4?ext=.ts
 #EXTINF:-1 group-title="Indian" tvg-name="Star Plus HD"  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",Star Plus HD 720p
 http://xtv.ooo:8080/live/6months/6months/66166.ts
 #EXTINF:-1 group-title="Indian" tvg-name="Star Plus HD" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",Star Plus FHD
@@ -15,7 +15,7 @@ http://212.102.38.8:8080/57e7744848e617b38a7b304007c8a142b0494118c3bfafd1bf16c2d
 #EXTINF:-1 group-title="Indian" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",Disney
 http://sansat.net:25461/live/02020699673686/02020699673686/96278.ts
 #EXTINF:-1 group-title="Indian" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",Disney
-http://bandookk.xyz:8000/BJTECH/BJTECH/23559
+https://ip-panel.com:443/play/D5-ETGxNl2Ftc5foaMsyahRSv0Vpr2uYgnwsW4BuVnciZgmCebIZ4iKjhyUFHcTSrCurSb2neLUo3HiscDDUmmbUl5-QrRlsLoLucsUlJz0?ext=.ts
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/MH1j1804/t0Ecro6.png",Hungama
 http://xtv.ooo:8080/live/6months/6months/150480.ts
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/MH1j1804/t0Ecro6.png",Hungama
@@ -66,3 +66,5 @@ http://sansat.net:25461/live/02020699673686/02020699673686/96362.ts
 http://sansat.net:25461/live/02020699673686/02020699673686/96361.ts
 #EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/D8WSYbW/images-24.jpg",Tarang music
 http://sansat.net:25461/live/02020699673686/02020699673686/96364.ts
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/C9ZbLfN/images-22.jpg",OTV
+https://ip-panel.com:443/play/D5-ETGxNl2Ftc5foaMsyahRSv0Vpr2uYgnwsW4BuVncKaGr4hqvGif9RUbN1xKEh0fQ8n_7lujXLesP2UIujAu-cWTpzlI2zFAM7EBXxzc4?ext=.ts
