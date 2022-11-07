@@ -1,9 +1,6 @@
 #EXTM3U
-#EXTM3U x-tvg-url="https://3o77.short.gy/tsepg.xml.gz
-#EXTM3U
-#EXTM3U x-tvg-url="https://github.com/epgshare01/share01/raw/master/epg_ripper_IN4.xml.gz"
 #EXTINF:-1 group-title="Indian" tvg-name="Star Plus HD" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",Star Plus FHD
-https://ip-panel.com:443/play/D5-ETGxNl2Ftc5foaMsyahRSv0Vpr2uYgnwsW4BuVncwCUAYZZlotN6gLlXLppmEs0tJQRC3Wc02BoplUBZgmaHaDg1JEZ6Owd8EEzqC7i4?ext=.ts
+http://iptvtree.net:8080/F17744/f01e18e2/16091
 #EXTINF:-1 group-title="Indian" tvg-name="Star Plus HD"  tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",Star Plus HD 720p
 http://xtv.ooo:8080/live/6months/6months/66166.ts
 #EXTINF:-1 group-title="Indian" tvg-name="Star Plus HD" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",Star Plus FHD
@@ -70,3 +67,7 @@ http://sansat.net:25461/live/02020699673686/02020699673686/96364.ts
 https://ip-panel.com:443/play/D5-ETGxNl2Ftc5foaMsyahRSv0Vpr2uYgnwsW4BuVncKaGr4hqvGif9RUbN1xKEh0fQ8n_7lujXLesP2UIujAu-cWTpzlI2zFAM7EBXxzc4?ext=.ts
 #EXTINF:-1 group-title="Indian" tvg-logo="",Disney
 http://bronzetv.xyz:80/play/live.php?mac=00:1a:79:4B:BA:2F&stream=161864&extension=ts&play_token=aI1LWSeHuh
+#EXTINF:-1 group-title="Indian" tvg-name="Star Plus HD" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",Star Plus HD DISH TV
+http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:74:c1:5e&stream=161935&extension=ts&play_token=pxlwQHAm4R
+#EXTINF:-1 group-title="Indian" tvg-name="Star Plus HD" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",Star Plus FHD TATA PLAY
+http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:74:c1:5e&stream=7932&extension=ts&play_token=GBpWuFzdob
