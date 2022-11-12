@@ -8,13 +8,13 @@ http://sansat.net:25461/live/02020699673686/02020699673686/96176.ts
 #EXTINF:-1 group-title="Indian" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",Star Plus HD
 http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
 #EXTINF:-1 group-title="Indian" tvg-name="Star Plus HD" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",Star Plus HD DISH TV
-http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:74:c1:5e&stream=161935&extension=m3u8&play_token=pxlwQHAm4R
+http://bronzetv.xyz:80/play/live.php?mac=00:1a:79:4B:BA:2F&stream=161935&extension=m3u8&play_token=vbuo8Z18HS
 #EXTINF:-1 group-title="Indian" tvg-name="Star Plus HD" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25307-jhrhflww-v1/imageContent-25307-jhrhflww-m1.png",Star Plus FHD TATA PLAY
-http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:74:c1:5e&stream=7932&extension=m3u8&play_token=GBpWuFzdob
+http://bronzetv.xyz:80/play/live.php?mac=00:1a:79:4B:BA:2F&stream=7932&extension=m3u8&play_token=O7BVwVGqt9
 #EXTINF:-1 group-title="Indian" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-6895-j6vqhqnc-v2/imageContent-6895-j6vqhqnc-m2.png",Star Bharat HD
 http://starshare.live:8080/live/TR-_-%4046fjkSEgd_-_99%40ryjjf57hni7d%40-_-%409dkq33idk/pal%40849_-_03%4084jkd_-_-_-%4084jdj29JNDW838wq92s/199.ts
 #EXTINF:-1 group-title="Indian" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",Disney
-http://bronzetv.xyz:80/play/live.php?mac=00:1A:79:71:43:99&stream=161864&extension=ts&play_token=KLwWpSnlPN
+http://sansat.net:25461/live/02020699673686/02020699673686/96278.ts
 #EXTINF:-1 group-title="Indian" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",Disney
 http://bronzetv.xyz:80/play/live.php?mac=00:1a:79:4B:BA:2F&stream=161864&extension=m3u8&play_token=aI1LWSeHuh
 #EXTINF:-1 group-title="Indian" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1356-j5tdnwmw-v1/imageContent-1356-j5tdnwmw-m1.png",Disney
