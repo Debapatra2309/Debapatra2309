@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m0YgQgs/Screenshot-2022-11-18-16-51-05-32-8d65fe50d5a9592a8a43ea9ea79d1696.png" group-title="Iamking3330",Prime Cinema HD
+https://amigofx.com:1936/PrimeCinema/PrimeCinema/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nDm2YDD/Screenshot-2022-11-18-16-47-58-65-b5a5c5cb02ca09c784c5d88160e2ec24.png" group-title="Iamking3330",Prime TV HD
+https://amigofx.com:1936/primetv/primetv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1zxd1Jy/Screenshot-2022-11-18-16-51-33-18-8d65fe50d5a9592a8a43ea9ea79d1696.png" group-title="Iamking3330",Prime Classic HD
+https://amigofx.com:1936/PrimeClassic/PrimeClassic/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NWz4QHb/Screenshot-2022-11-18-16-48-54-54-8d65fe50d5a9592a8a43ea9ea79d1696.png" group-title="Iamking3330",Prime Local HD
+https://amigofx.com:1936/primelocal/primelocal/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/J7Cv10t/Screenshot-2022-11-18-16-49-35-77-8d65fe50d5a9592a8a43ea9ea79d1696.png" group-title="Iamking3330",Prime Mix HD
+https://amigofx.com:1936/primemix/primemix/playlist.m3u8
