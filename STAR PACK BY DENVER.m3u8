@@ -1,0 +1,48 @@
+#EXTM3U
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/RVCShL2Y/He7ebQT.jpg",Star Plus HD
+http://103.99.249.107:81/play/a00t
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/RVCShL2Y/He7ebQT.jpg",Star Plus HD
+http://starshare.live:8080/live/Oscar1234/Oscar1234/3744.ts
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/MpNsTPgM/download-6.png",Disney
+http://103.162.136.235:4500/play/a01g/index.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/MpNsTPgM/download-6.png",Disney
+http://103.99.249.107:81/play/a025
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/MH1j1804/t0Ecro6.png",Hungama
+http://103.99.249.107:81/play/a023
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/MH1j1804/t0Ecro6.png",Hungama
+http://103.162.136.235:4500/play/a01h/index.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/1T67BVx/Super-Hungama-Logo.png",Super Hungama
+http://103.99.249.107:81/play/a07i
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.ibb.co/1T67BVx/Super-Hungama-Logo.png",Super Hungama
+https://3uog.short.gy/Hungama_Hindi_bj_special.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/tCSRmXdF/Starsportss1.jpg",Star Sports Select 1 HD
+http://103.162.136.235:4500/play/a00v/index.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/PqGjBNCv/Starsportss2.jpg",Star Sports Select 2 HD
+http://103.162.136.235:4500/play/a00w/index.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/L5rr1bKQ/Star-Sports1-Hindi.jpg",Star Sports 1 Hindi HD
+http://103.162.136.235:4500/play/a017/index.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/L5rr1bKQ/Star-Sports1-Hindi.jpg",Star Sports 1 Hindi HD
+http://31.172.87.20:2200/R-EX/STAR_SPORTSHINDI_HD_1-in/index.m3u8?token=RED_Hqqv1c3nXjqlzBGFPhFuTg==,165803831455.4814651659=
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/GtRbRF1b/ytL56ZP.jpg",Star Sports 1 HD
+http://103.16.24.54:8080/channel1/index.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/GtRbRF1b/ytL56ZP.jpg",Star Sports 1 SD
+http://103.99.249.107:81/play/a03b
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/GtRbRF1b/ytL56ZP.jpg",Star Sports 1 HD Full HD
+http://103.162.136.235:4500/play/a015/index.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/dtDx17tF/gfdFTYm.png",Star Sports 2 HD
+http://208.86.19.13:81/715.stream/index.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/ZnxdB0QW/Star-Sports-3-HD-Logo.png",Star Sports 3
+http://103.162.136.235:4500/play/a013/index.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/ZnxdB0QW/Star-Sports-3-HD-Logo.png",Star Sports 3 HD
+http://103.162.136.235:4500/play/a013/index.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/5yPKgzbx/vGq343l.png",Star Gold HD
+http://103.162.136.235:4500/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/5yPKgzbx/vGq343l.png",Star Gold HD
+http://103.99.249.107:81/play/a016
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/cCNqbz6q/Star-Gold-Select.jpg",Star Gold Select HD
+http://103.162.136.235:4500/play/a00k/index.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/PqjctYfq/G0fh0PU.png",Star Gold 2
+http://103.162.136.235:4500/play/a00x/index.m3u8
+#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/PqjctYfq/G0fh0PU.png",Star Gold 2
+http://103.99.249.107:81/play/a020
+#EXTM3U x-tvg-url="https://github.com/epgshare01/share01/raw/master/epg_ripper_IN4.xml.gz"
